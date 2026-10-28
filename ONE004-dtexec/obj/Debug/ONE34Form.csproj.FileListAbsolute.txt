@@ -1,0 +1,64 @@
+C:\Users\bartek\opt\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csprojAssemblyReference.cache
+C:\Users\bartek\opt\one034 form\ONE004-dtexec\obj\Debug\Interop.OP_PRINTLib.dll
+C:\Users\bartek\opt\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.ResolveComReference.cache
+C:\Users\bartek\opt\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.GenerateResource.cache
+C:\Users\bartek\opt\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.CoreCompileInputs.cache
+C:\Users\bartek\opt\one034 form\ONE004-dtexec\obj\Debug\one034.ONE034Form.resources
+C:\Users\bartek\opt\one034 form\ONE004-dtexec\obj\Debug\ONE034.Properties.Resources.resources
+C:\Users\bartek\opt\one034 form\build one34\ONE034.exe.config
+C:\Users\bartek\opt\one034 form\build one34\ONE034.exe
+C:\Users\bartek\opt\one034 form\build one34\ONE034.pdb
+C:\Users\bartek\opt\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.Fody.CopyLocal.cache
+C:\Users\bartek\opt\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.CopyComplete
+C:\Users\bartek\opt\one034 form\ONE004-dtexec\obj\Debug\ONE034.exe
+C:\Users\bartek\opt\one034 form\ONE004-dtexec\obj\Debug\ONE034.pdb
+C:\Users\magdaw\Downloads\one034 form\build one34\ONE034.exe.config
+C:\Users\magdaw\Downloads\one034 form\build one34\ONE034.exe
+C:\Users\magdaw\Downloads\one034 form\build one34\ONE034.pdb
+C:\Users\magdaw\Downloads\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csprojAssemblyReference.cache
+C:\Users\magdaw\Downloads\one034 form\ONE004-dtexec\obj\Debug\Interop.OP_PRINTLib.dll
+C:\Users\magdaw\Downloads\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.ResolveComReference.cache
+C:\Users\magdaw\Downloads\one034 form\ONE004-dtexec\obj\Debug\one034.ONE034Form.resources
+C:\Users\magdaw\Downloads\one034 form\ONE004-dtexec\obj\Debug\ONE034.Properties.Resources.resources
+C:\Users\magdaw\Downloads\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.GenerateResource.cache
+C:\Users\magdaw\Downloads\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Downloads\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.Fody.CopyLocal.cache
+C:\Users\magdaw\Downloads\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.CopyComplete
+C:\Users\magdaw\Downloads\one034 form\ONE004-dtexec\obj\Debug\ONE034.exe
+C:\Users\magdaw\Downloads\one034 form\ONE004-dtexec\obj\Debug\ONE034.pdb
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\build one34\ONE034.exe.config
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\build one34\ONE034.exe
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\build one34\ONE034.pdb
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csprojAssemblyReference.cache
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\Interop.OP_PRINTLib.dll
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.ResolveComReference.cache
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\one034.ONE034Form.resources
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\ONE034.Properties.Resources.resources
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.GenerateResource.cache
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.Fody.CopyLocal.cache
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.CopyComplete
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\ONE034.exe
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\ONE034.pdb
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\build one34\ONE034.exe.manifest
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\build one34\ONE034.application
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\ONE034.exe.manifest
+C:\Users\magdaw\Documents\Domar\Excel-Halmar\one034 form\ONE004-dtexec\obj\Debug\ONE034.application
+C:\Users\magdaw\Documents\XL_Excel\one034 form\build one34\ONE034.exe.config
+C:\Users\magdaw\Documents\XL_Excel\one034 form\build one34\ONE034.exe.manifest
+C:\Users\magdaw\Documents\XL_Excel\one034 form\build one34\ONE034.application
+C:\Users\magdaw\Documents\XL_Excel\one034 form\build one34\ONE034.exe
+C:\Users\magdaw\Documents\XL_Excel\one034 form\build one34\ONE034.pdb
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csprojAssemblyReference.cache
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\Interop.OP_PRINTLib.dll
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.ResolveComReference.cache
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\one034.ONE034Form.resources
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\ONE034.Properties.Resources.resources
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.GenerateResource.cache
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.Fody.CopyLocal.cache
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\ONE034.exe.manifest
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\ONE034.application
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\ONE34Form.csproj.CopyComplete
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\ONE034.exe
+C:\Users\magdaw\Documents\XL_Excel\one034 form\ONE004-dtexec\obj\Debug\ONE034.pdb
